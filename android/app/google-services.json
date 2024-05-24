@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869330690827",
+    "project_id": "classe-attendance-h0whxo",
+    "storage_bucket": "classe-attendance-h0whxo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869330690827:android:320e31e1c4f38a51ebb80e",
+        "android_client_info": {
+          "package_name": "com.luisportal.classattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn607D96jMeI5KPSxhax7nsU0Kqc0OQHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
